@@ -1,4 +1,4 @@
-package es.studium;
+package es.studium.EjemplosTablas;
 
 public class Ejemplo1Tablas {
 
