@@ -2,7 +2,7 @@ package es.studium.QuitarEspacios;
 
 import java.util.Scanner;
 
-public class QuitarEspacios {
+public class QuitarEspacios  {
 
 	public static void main(String[] args) {
 
